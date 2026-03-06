@@ -1,4 +1,4 @@
-<h1 align="left">Shaznay</h1>
+<h1 align="left">Diwata</h1>
 
 <p align="left">
   <b>Full-Cycle Software Engineer specializing in automation, and full-stack systems.</b>
