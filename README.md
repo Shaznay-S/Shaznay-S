@@ -1,8 +1,10 @@
 <h1 align="left">DIWATA</h1>
 
 <p align="left">
-  interdisciplinary entity  
-  operating between physical & digital domains
+interdisciplinary entity  
+systems • constructs • automation  
+
+operating across domains
 </p>
 
 ---
