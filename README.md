@@ -1,54 +1,68 @@
-<h1 align="left">Diwata</h1>
+<h1 align="left">DIWATA</h1>
 
 <p align="left">
-  <b>Full-Cycle Software Engineer specializing in automation, and full-stack systems.</b>
-  <br/>
-  <b>Focus:</b>
-  <ul>
-    - Full Stack Engineering
-    - Web Scraping
-    - Automation 
-    - DevOps
-    - AI Agents
-  </ul>
+  interdisciplinary entity  
+  operating between physical & digital domains
 </p>
 
 ---
 
-## About
+## Systems
 
-- Building: 
-    - Proprietary CRM app
-    - Component Library
-- Interests: Creative Coding • Automation • Self - Hosting • Open Source
-- Values: Sovereignty • Learning in Public 
-
----
-
-## Tech I use
-
-**Languages:** Python • Java • SQL • JavaScript/TypeScript • CSS  
-**Backend:** Flask/FastAPI • REST • SQLAlchemy  
-**Frontend:** React • Vite • CSS/CSS Modules
-**Data/Infra:** MySQL/Postgres • Redis • Docker
-**Automation:** Playwright/Selenium • Cron • RQ
+- Full-stack architectures
+- Automation pipelines & scraping systems
+- Distributed task processing (queues, workers)
+- AI-assisted workflows & agents
+- Self-hosted infrastructure
 
 ---
 
-## GitHub snapshots
+## Constructs
 
-<!-- GitHub Readme Stats -->
+- CRM systems & data pipelines  
+- Component libraries & UI systems  
+- Experimental tools & automation frameworks  
+
+---
+
+## Stack
+
+**Languages**  
+Python • Java • SQL • TypeScript • JavaScript  
+
+**Backend**  
+Flask • FastAPI • REST • SQLAlchemy  
+
+**Frontend**  
+React • Vite • CSS / Modules  
+
+**Data / Infra**  
+MySQL • Postgres • Redis • Docker  
+
+**Automation**  
+Playwright • Selenium • Cron • RQ  
+
+---
+
+## Direction
+
+- building autonomous systems  
+- exploring generative + creative coding  
+- designing internal tools over external dependency  
+- documenting selectively  
+
+---
+
+## GitHub
+
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SHAZNAY-S&show_icons=true&hide_title=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAZNAY-S&layout=compact" />
 </p>
 
-<!-- Streak -->
 <p align="left">
   <img height="160" src="https://streak-stats.demolab.com/?user=SHAZNAY-S" />
 </p>
-
----
 
 <!--
 Enable this section when you have a Ko-fi / GitHub Sponsors / Buy Me a Coffee, etc.
